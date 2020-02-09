@@ -1,0 +1,7 @@
+============
+libelfinject
+============
+
+usage:
+LD_PRELOAD="./libelfinject.so" /path/to/elf
+
